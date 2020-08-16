@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/kemokemo/colout/releases/download/v0.1.1/colout_Windows_i386.zip",
+            "bin": [
+                "colout.exe"
+            ],
+            "hash": "1d5471791e1d719a7cdeaad9a93d7e63f012d99965ed176c81ec4a4fe02712ce"
+        },
+        "64bit": {
+            "url": "https://github.com/kemokemo/colout/releases/download/v0.1.1/colout_Windows_x86_64.zip",
+            "bin": [
+                "colout.exe"
+            ],
+            "hash": "0e4761fbe8c1fe3a1dd807ab9c67cda57bdeff7718f2d9dfbea1ea437e7719fb"
+        }
+    },
+    "homepage": "https://github.com/kemokemo/colout",
+    "license": "MIT",
+    "description": "It's a simple and tiny tool for getting colored output in scripts."
+}
