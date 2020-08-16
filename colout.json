@@ -6,14 +6,14 @@
             "bin": [
                 "colout.exe"
             ],
-            "hash": "1d5471791e1d719a7cdeaad9a93d7e63f012d99965ed176c81ec4a4fe02712ce"
+            "hash": "55b65c0289d9f06b9151645622380d1f714c870b7c1038029f8942736b7c9c6a"
         },
         "64bit": {
             "url": "https://github.com/kemokemo/colout/releases/download/v0.1.1/colout_Windows_x86_64.zip",
             "bin": [
                 "colout.exe"
             ],
-            "hash": "0e4761fbe8c1fe3a1dd807ab9c67cda57bdeff7718f2d9dfbea1ea437e7719fb"
+            "hash": "e0fdb50f2bd236c2c2ba91d19f3dc746013a3b0ba5fccce591dbe6bb9c313732"
         }
     },
     "homepage": "https://github.com/kemokemo/colout",
