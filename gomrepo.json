@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/kemokemo/gomrepo/releases/download/v0.1.0/gomrepo_Windows_i386.zip",
+            "bin": [
+                "gomrepo.exe"
+            ],
+            "hash": "9e80289cab79a2a4df50c253dbabc9c4091273491942bbe32ba7407132dd4d80"
+        },
+        "64bit": {
+            "url": "https://github.com/kemokemo/gomrepo/releases/download/v0.1.0/gomrepo_Windows_x86_64.zip",
+            "bin": [
+                "gomrepo.exe"
+            ],
+            "hash": "c94b5e263d278b735e1da0a96b8f7fbaf5db30b99d152941884d0ab4330a9abb"
+        }
+    },
+    "homepage": "https://github.com/kemokemo/gomrepo",
+    "license": "MIT",
+    "description": "This small tool adds license information to the 'go module' information and outputs it in various formats."
+}
