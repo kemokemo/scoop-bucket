@@ -6,14 +6,14 @@
             "bin": [
                 "gomrepo.exe"
             ],
-            "hash": "9e80289cab79a2a4df50c253dbabc9c4091273491942bbe32ba7407132dd4d80"
+            "hash": "e4d2300abeafd604220969c970da01ffabdbffdafc01596cb64948034d80d6f8"
         },
         "64bit": {
             "url": "https://github.com/kemokemo/gomrepo/releases/download/v0.1.0/gomrepo_Windows_x86_64.zip",
             "bin": [
                 "gomrepo.exe"
             ],
-            "hash": "c94b5e263d278b735e1da0a96b8f7fbaf5db30b99d152941884d0ab4330a9abb"
+            "hash": "7f47be216254ce8d8859d7c7252983c97fae562ccc5ffeaa66feceb36f59c3fc"
         }
     },
     "homepage": "https://github.com/kemokemo/gomrepo",
