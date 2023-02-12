@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/kemokemo/imgdiff/releases/download/v0.1.0/imgdiff_Windows_i386.zip",
+            "bin": [
+                "imgdiff.exe"
+            ],
+            "hash": "c8d2c323cbd04ce6c055632641c443b879c0fd5fa39b9eee03c85767c4220087"
+        },
+        "64bit": {
+            "url": "https://github.com/kemokemo/imgdiff/releases/download/v0.1.0/imgdiff_Windows_x86_64.zip",
+            "bin": [
+                "imgdiff.exe"
+            ],
+            "hash": "9c01bdde335a1d6ff0097ca0078016634aec2b90ee29dd6ecda5b99bfb8e777c"
+        }
+    },
+    "homepage": "https://github.com/kemokemo/imgdiff",
+    "license": "MIT",
+    "description": "This tool compares old and new versions of image files and generates color-coded image in a diff format."
+}
